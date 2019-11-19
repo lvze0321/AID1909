@@ -3,3 +3,5 @@
 class Tom:
     def __init__(self):
         .....
+
+include stdio  hello world
